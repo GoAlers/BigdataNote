@@ -1,5 +1,16 @@
-# BigdataNote
-大数据生态学习笔记
+# BigdataNote  
+欢迎访问我的个人博客www.gaohongwei.cn  
+
+大数据优秀博客推荐：  
+过往记忆大数据博客：https://www.iteblog.com/archives/781.html  
+董西城博客：http://dongxicheng.org/  
+lwx的数据田地：http://lxw1234.com/  
+美团技术团队：https://tech.meituan.com/  
+林子雨厦门大学实验室：http://dblab.xmu.edu.cn/  
+
+其他CSDN、博客园优秀博客见书签。  
+
+大数据生态学习笔记  
 
 大数据笔记 https://blog.csdn.net/qq_33439938/article/details/105427599
 
