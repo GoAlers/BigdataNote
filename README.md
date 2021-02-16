@@ -2,7 +2,7 @@
 -----------欢迎访问------------
 我的个人博客：www.gaohongwei.cn  
 我的个人公众号：GoAl分享
-![weixin](D:%5C72020.2.20%5Cimages%5Cweixin.jpg)
+https://github.com/GoAlers/BigdataNote/blob/master/weixin.jpg
 
 大数据优秀博客推荐：  
 过往记忆大数据博客：https://www.iteblog.com/archives/781.html  
