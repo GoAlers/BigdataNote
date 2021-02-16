@@ -8,7 +8,8 @@ lwx的数据田地：http://lxw1234.com/
 美团技术团队：https://tech.meituan.com/  
 林子雨厦门大学实验室：http://dblab.xmu.edu.cn/  
 
-大数据学习书签：自己总结的大数据学习书签，包含各类大数据组件，及其他优秀CSDN、博客园博客。  
+大数据学习书签：https://github.com/GoAlers/BigdataNote/blob/master/%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AD%A6%E4%B9%A0%E4%B9%A6%E7%AD%BE.html
+自己总结的大数据学习书签，包含各类大数据组件，及其他优秀CSDN、博客园博客。  
 
 大数据生态学习笔记  
 
