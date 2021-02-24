@@ -1,7 +1,7 @@
 # BigdataNote  
------------欢迎访问------------
+-----------欢迎访问------------  
 我的个人博客：www.gaohongwei.cn  
-我的个人公众号：GoAl分享
+我的个人公众号：GoAl分享  
 https://github.com/GoAlers/BigdataNote/blob/master/weixin.jpg
 
 大数据优秀博客推荐：  
