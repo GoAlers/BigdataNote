@@ -1,6 +1,6 @@
 # BigdataNote  
 -----------欢迎访问------------  
-我的CSDN博客：https://blog.csdn.net/qq_36816848 分享大数据及人工智能资料和笔记
+我的CSDN博客：https://blog.csdn.net/qq_36816848 分享大数据及人工智能资料和笔记  
 我的个人博客：www.gaohongwei.cn  
 我的个人公众号：GoAl分享  
 https://github.com/GoAlers/BigdataNote/blob/master/weixin.jpg
